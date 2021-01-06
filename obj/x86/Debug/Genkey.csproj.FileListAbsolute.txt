@@ -1,0 +1,52 @@
+D:\Dev\qlts\Genkey\bin\Debug\Genkey.exe
+D:\Dev\qlts\Genkey\bin\Debug\Genkey.pdb
+D:\Dev\qlts\Genkey\obj\x86\Debug\Genkey.csprojResolveAssemblyReference.cache
+D:\Dev\qlts\Genkey\obj\x86\Debug\Genkey.Form1.resources
+D:\Dev\qlts\Genkey\obj\x86\Debug\Genkey.Properties.Resources.resources
+D:\Dev\qlts\Genkey\obj\x86\Debug\Genkey.csproj.GenerateResource.Cache
+D:\Dev\qlts\Genkey\obj\x86\Debug\Genkey.exe
+D:\Dev\qlts\Genkey\obj\x86\Debug\Genkey.pdb
+D:\Dev\qlts\Genkey\bin\Debug\DevExpress.Data.v13.1.dll
+D:\Dev\qlts\Genkey\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\Dev\qlts\Genkey\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\Dev\qlts\Genkey\bin\Debug\DevExpress.Data.v13.1.xml
+D:\Dev\qlts\Genkey\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\Dev\qlts\Genkey\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Dev\qlts\Genkey\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\Genkey.exe
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\Genkey.pdb
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\obj\x86\Debug\Genkey.Form1.resources
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\obj\x86\Debug\Genkey.Properties.Resources.resources
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\obj\x86\Debug\Genkey.exe
+C:\Users\Ngoc\Desktop\qlts 12.12.14\qlts\qlts\Genkey\obj\x86\Debug\Genkey.pdb
